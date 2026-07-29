@@ -1,1 +1,7 @@
-node_modules
+node_modules/
+.env.local
+.DS_Store
+dist/
+.vite/
+pnpm-lock.yaml
+.pnpm-debug.log*
