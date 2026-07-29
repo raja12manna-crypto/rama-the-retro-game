@@ -1,0 +1,10 @@
+{
+  "name": "rama-game",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -r dev",
+    "build": "pnpm -r build",
+    "preview": "pnpm -r preview"
+  }
+}
